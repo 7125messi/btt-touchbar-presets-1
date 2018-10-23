@@ -1,6 +1,6 @@
 # Better Touch Tool Presets
 
-![Screenshot 1](clay-btt-presets.png?raw=true)
+![Screenshot 1](scr/clay-btt-presets.png?raw=true)
 
 Widgets:
 1) App Switcher
@@ -15,7 +15,7 @@ Presets:
 
 General Touchbar settings
 
-![Screenshot 2](https://github.com/claydugo/btt-touchbar/blob/master/btt-settings.png?raw=true)
+![Screenshot 2](scr/btt-settings.png?raw=true)
 
 
 Check out others btt presets [here](https://github.com/vas3k/btt-touchbar-presets)
